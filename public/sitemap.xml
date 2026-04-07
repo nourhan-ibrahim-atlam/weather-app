@@ -4,22 +4,22 @@
 
   <!-- Home Page - English -->
   <url>
-    <loc>https://your-domain.com/</loc>
+    <loc>https://weather-app-atlam.netlify.app/</loc>
     <lastmod>2025-04-07</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
     <xhtml:link 
       rel="alternate" 
       hreflang="en" 
-      href="https://your-domain.com/?lng=en"/>
+      href="https://weather-app-atlam.netlify.app/?lng=en"/>
     <xhtml:link 
       rel="alternate" 
       hreflang="ar" 
-      href="https://your-domain.com/?lng=ar"/>
+      href="https://weather-app-atlam.netlify.app/?lng=ar"/>
     <xhtml:link 
       rel="alternate" 
       hreflang="x-default" 
-      href="https://your-domain.com/"/>
+      href="https://weather-app-atlam.netlify.app/"/>
   </url>
 
 </urlset>

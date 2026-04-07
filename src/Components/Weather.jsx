@@ -12,7 +12,7 @@ moment.locale("ar");
 
 // Redux Toolkit
 import { useSelector , useDispatch } from "react-redux";
-import { fetchWeather } from "../WeatherApiSlice";
+import { fetchWeather } from "../weatherApiSlice";
 
 // Get Icon From Open Weather
 function WeatherIcon({ icon }) {

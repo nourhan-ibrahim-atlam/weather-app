@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Block dev/build artifacts
+Disallow: /src/
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /dist/
+
+Sitemap: https://your-domain.com/sitemap.xml
